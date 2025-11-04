@@ -1,0 +1,5 @@
+DeliveryTask[] tasks
+---
+bool success
+string message
+string[] accepted_task_ids
