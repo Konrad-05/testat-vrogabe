@@ -1,3 +1,0 @@
-string task_id
-float32 destination_x
-float32 destination_y
