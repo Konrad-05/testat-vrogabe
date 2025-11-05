@@ -1,2 +1,0 @@
-bool low_battery
-float32 current_level
